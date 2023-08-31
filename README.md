@@ -62,4 +62,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenG123&theme=dracula)](https://github.com/LaurenG123/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenG123&theme=dracula)](https://github.com/LaurenG123/Training-stats)
