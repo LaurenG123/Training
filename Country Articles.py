@@ -1,4 +1,4 @@
-
+#Short code to add correct articles to country names in french
 
 pays = input("Insérer le nom du pays sans espaces: ")
 
