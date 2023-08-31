@@ -1,3 +1,5 @@
+#convert from roman numerals to arabic numerals 
+
 roman = input("Enter roman numeral string: ")
 
 def romanNum(s):
