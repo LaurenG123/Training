@@ -60,6 +60,4 @@
 
 
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenG123&theme=dracula)](https://github.com/LaurenG123/Training-stats)
