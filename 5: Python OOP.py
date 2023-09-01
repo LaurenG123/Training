@@ -12,7 +12,7 @@ import random
 if random.randint(0, 1) == 0:
     # encapsulation & inheritance
 
-    my_person = customer.Customer('Lauren', 'Gorst', 'address ')
+    my_person = customer.Customer('first name 1', 'last name 2', 'address ')
     # my_person.first_name = 'uh'
 else:
     # inheritance & polymorphism
