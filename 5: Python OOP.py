@@ -12,12 +12,16 @@ import random
 if random.randint(0, 1) == 0:
     # encapsulation & inheritance
 
-    my_person = customer.Customer('first name 1', 'last name 2', 'address ')
+    my_person = customer.Customer('first name 1', 
+                                  'last name 2', 
+                                  'address ')
     # my_person.first_name = 'uh'
 else:
     # inheritance & polymorphism
 
-    my_person = employee.Employee('Utmost', 'Appreciation', 'Marketing ')
+    my_person = employee.Employee('Utmost', 
+                                  'Appreciation', 
+                                  'Marketing ')
 my_person.print()
 
 ############## Customer.py ##########
