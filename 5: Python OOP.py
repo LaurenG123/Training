@@ -8,16 +8,16 @@ import customer
 import employee
 import random
 
-# randomly give customer or employee POLYMORPHISM
+# randomly give customer or employee
 if random.randint(0, 1) == 0:
-    # encapsulation & inheritance
+    
 
     my_person = customer.Customer('first name 1', 
                                   'last name 2', 
                                   'address ')
     # my_person.first_name = 'uh'
 else:
-    # inheritance & polymorphism
+    
 
     my_person = employee.Employee('Utmost', 
                                   'Appreciation', 
