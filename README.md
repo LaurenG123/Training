@@ -91,4 +91,8 @@ The program also implements a try and except clause to mitigate and problems tha
 
 
 
+*Updates to be released: downloadable csv file of battle log*
+
+
+
 
