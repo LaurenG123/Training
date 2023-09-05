@@ -84,4 +84,4 @@ The program also implements a try and except clause to mitigate and problems tha
 
 
 
-<a href= "https://github.com/LaurenG123/Training/blob/main/running_pokecode.py)https://github.com/LaurenG123/Training/blob/main/running_pokecode.py">LINK TO CODE
+<a href= "https://github.com/LaurenG123/Training/blob/main/running_pokecode.py">LINK TO CODE
