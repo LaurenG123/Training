@@ -25,7 +25,7 @@
 
 
 ***
->Repository Contents
+>In Training Repository Contents
 <table border="1" cellpadding="1" cellspacing="1" style="width:500px">
 	<thead>
 		<tr>
@@ -80,3 +80,8 @@ The follwowing screenshots are from a window opening in my terminal when the pyt
 The program also implements a try and except clause to mitigate and problems that may arise if a pokemon that does not correspond to one existing in the database is input by the user.
 
 <img width="300" alt="Screenshot 2023-09-05 at 18 25 43" src="https://github.com/LaurenG123/Training/assets/72687468/17177125-f4ea-4a99-ab47-203089f7e4c4">
+
+
+
+
+<a href= "https://github.com/LaurenG123/Training/blob/main/running_pokecode.py)https://github.com/LaurenG123/Training/blob/main/running_pokecode.py">LINK TO CODE
