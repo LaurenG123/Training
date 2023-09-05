@@ -92,6 +92,7 @@ The program also implements a try and except clause to mitigate and problems tha
 
 
 *Updates to be released: downloadable csv file of battle log*
+*Could be improved: the build could be contained in a .kv file instead of as a function in main*
 
 
 
