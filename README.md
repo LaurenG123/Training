@@ -65,7 +65,14 @@
 ***
 ## Apps with python (KIVY)
 
-The follwowing screenshots are from a window opening in my terminal when the python code is run. As can be noted the program itself runs like an app simulating a battle between two pokemon input by the user. Each pokemon corresponds to an api end point from: https://pokeapi.co. Each input must correspond to a pokemon listed consequently outputing the kind of attacks used by that pokemon in the api database and detracting from its health (also listed on the database) with each subsequent attack. A popup with open to show the winner of the round, and ascrollable battle log is also available. With linux this could be developed very easily into a downloadable form of app however ability to do this using mac is limited to the size of available storage that could be attributed to running a partition. 
+The follwowing screenshots are from a window opening in my terminal when the python code is run. As can be noted the program itself runs like an app simulating a battle between two pokemon input by the user. Each pokemon corresponds to an api end point from: https://pokeapi.co. Each input must correspond to a pokemon listed consequently outputing the kind of attacks used by that pokemon in the api database and detracting from its health (also listed on the database) with each subsequent attack. A popup with open to show the winner of the round, and ascrollable battle log is also available. With linux this could be developed very easily into a downloadable form of app however ability to do this using mac is limited to the size of available storage that could be attributed to running a partition. <a href= "https://github.com/LaurenG123/Training/blob/main/running_pokecode.py">Try the pokemon game code.
+
+The only requirement for running the code is to have kivy installed. You can do this through the Pycharm terminal:
+
+
+
+		pip install kivy
+
 
 
 
@@ -84,4 +91,4 @@ The program also implements a try and except clause to mitigate and problems tha
 
 
 
-<a href= "https://github.com/LaurenG123/Training/blob/main/running_pokecode.py">LINK TO CODE
+
