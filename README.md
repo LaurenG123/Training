@@ -84,7 +84,7 @@ The only requirement for running the code is to have kivy installed. You can do 
 <img width="300" alt="Screenshot 2023-09-05 at 18 14 27" src="https://github.com/LaurenG123/Training/assets/72687468/6773bf90-ab0c-4280-93fb-3742876ef8eb">
 
 
-The program also implements a try and except clause to mitigate and problems that may arise if a pokemon that does not correspond to one existing in the database is input by the user.
+The program also implements a try and except clause to mitigate and problems that may arise if a pokemon that does not correspond to one existing in the database is input by the user. Also note that the program admits input in either lower or uppercase... or a mixture of both!!
 
 <img width="300" alt="Screenshot 2023-09-05 at 18 25 43" src="https://github.com/LaurenG123/Training/assets/72687468/17177125-f4ea-4a99-ab47-203089f7e4c4">
 
