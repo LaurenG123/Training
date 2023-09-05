@@ -61,3 +61,22 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurenG123&theme=dracula)](https://github.com/LaurenG123/Training-stats)
+
+
+**Apps with python (KIVY)
+
+The follwowing screenshots are from a window opening in my terminal when the python code is run. As can be noted the program itself runs like an app simulating a battle between two pokemon input by the user. Each pokemon corresponds to an api end point from: https://pokeapi.co. Each input must correspond to a pokemon listed consequently outputing the kind of attacks used by that pokemon in the api database and detracting from its health (also listed on the database) with each subsequent attack. A popup with open to show the winner of the round, and ascrollable battle log is also available. With linux this could be developed very easily into a downloadable form of app however ability to do this using mac is limited to the size of available storage that could be attributed to running a partition. 
+
+
+
+<img width="300" alt="Screenshot 2023-09-05 at 18 13 39" src="https://github.com/LaurenG123/Training/assets/72687468/9fb1243f-167a-4429-bd8f-ba6052d48fdd">
+
+
+<img width="300" alt="Screenshot 2023-09-05 at 18 14 01" src="https://github.com/LaurenG123/Training/assets/72687468/2ed31409-baff-412d-98f1-d416ce7cf747">
+
+<img width="300" alt="Screenshot 2023-09-05 at 18 14 27" src="https://github.com/LaurenG123/Training/assets/72687468/6773bf90-ab0c-4280-93fb-3742876ef8eb">
+
+
+The program also implements a try and except clause to mitigate and problems that may arise if a pokemon that does not correspond to one existing in the database is input by the user.
+
+<img width="300" alt="Screenshot 2023-09-05 at 18 25 43" src="https://github.com/LaurenG123/Training/assets/72687468/17177125-f4ea-4a99-ab47-203089f7e4c4">
