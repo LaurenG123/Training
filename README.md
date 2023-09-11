@@ -57,6 +57,10 @@
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">6</th>
+			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/running_pokecode.py">Python classes</td>
+		</tr>
+		<tr>
+			<th scope="row" style="width:43px">7</th>
 			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/running_pokecode.py">API and csv files</td>
 		</tr>
 	</tbody>
