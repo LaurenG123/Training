@@ -142,7 +142,18 @@ The following Jupyter Notebook project details data cleaning and visualisation. 
 
 The use of data visualisation tools and libraries such a Pandas, NumPy and Matplotlib are of great importance to the project and should be installed. Example graph requireing additional imports for interactability. <a href= "https://github.com/LaurenG123/Training/blob/main/project.ipynb">See Project
 
+			import pandas as pd
+			import matplotlib.pyplot as plt
+			import matplotlib.cm as cm
+			import numpy as np
+			import seaborn as sns
 
+			# Necessary visual imports
+			import ipywidgets as widgets
+			from IPython.display import display
+			import panel as pn
+			from bokeh.plotting import figure, show, output_notebook
+			from bokeh.models import HoverTool, ColumnDataSource, Slope
 
 
 <img width="300" alt="Screenshot 2023-09-11 at 16 39 47" src="https://github.com/LaurenG123/Training/assets/72687468/b9310111-d733-4b39-88c3-feae51c49ad7">
