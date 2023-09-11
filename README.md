@@ -49,7 +49,7 @@
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">4</th>
-			<td style="width:443px"><a href="https://github.com/LaurenG123/Sparta-Repository/blob/main/4:functions">Python functions further examples</td>
+			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/4%3A%20Python%20Functions.py">Python functions further examples</td>
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">5</th>
