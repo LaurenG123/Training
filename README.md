@@ -99,15 +99,15 @@ The program also implements a try and except clause to mitigate any problems tha
 
 ***
 
-## Restraunt Project
+## Restaurant Project
 
-The restraunt project is a task set by sparta global where a main file and .py file are given containing test conditions and a means to test a code written into the restraunt.py file. The guidlines set for the task were as follows: 
+The restaurant project is a task set by sparta global where a main file and .py file are given containing test conditions and a means to test a code written into the restraunt.py file. The guidlines set for the task were as follows: 
 
 <img width="794" alt="Screenshot 2023-09-11 at 15 54 02" src="https://github.com/LaurenG123/Training/assets/72687468/1ace8e05-fc46-4183-bc89-896d45217858">
 
 Based on these guidlines it was necessary to use trello (inspired by Kanban an AGILE methodology) to approach the task outlineing user stories and acceptance criteria (Gherkin method) to proceed with the tasks requirements. 
 
-<img width="1421" alt="Screenshot 2023-09-11 at 15 50 05" src="https://github.com/LaurenG123/Training/assets/72687468/eccaa119-017a-4b59-b65d-f0c38bb8f36e">
+<img width="1419" alt="Screenshot 2023-09-11 at 16 03 18" src="https://github.com/LaurenG123/Training/assets/72687468/dde44cd6-d554-4079-abf2-66f40608eab7">
 
 Access to the expanded Trello post-its can be found <a href= "https://trello.com/b/Q6KRUxO0/restraunt-project">on my Trello board.
 
