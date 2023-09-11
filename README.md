@@ -112,7 +112,13 @@ Based on these guidlines it was necessary to use trello (inspired by Kanban an A
 Access to the expanded Trello post-its can be found <a href= "https://trello.com/b/Q6KRUxO0/restraunt-project">on my Trello board.
 
 Note that the gherkin style acceptance criteria are written into the comment section of the post-it for space purposes.
-The final code written to satisfiy the test criteria is saved as "restaurant.py". The test criteria "test_module.oy" was provided by SpartaGlobal. To check the code runs satisfactorily, in regards to the unit test criteria, it is necessary to import the "restraunt_main.py" file into main, then run. 
+The final code written to satisfiy the test criteria is saved as <a href = "https://github.com/LaurenG123/Training/blob/main/restaurant.py">"restaurant.py". 
+
+
+The test criteria "test_module.oy" was provided by SpartaGlobal. To check the code runs satisfactorily, in regards to the unit test criteria, it is necessary to import the "restraunt_main.py" file into main, then run. 
+
+
+
 
 The output should then be: 
 
