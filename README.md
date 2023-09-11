@@ -142,6 +142,14 @@ The following Jupyter Notebook project details data cleaning and visualisation. 
 
 The use of data visualisation tools and libraries such a Pandas, NumPy and Matplotlib are of great importance to the project and should be installed. Example graph requireing additional imports for interactability. <a href= "https://github.com/LaurenG123/Training/blob/main/project.ipynb">See Project
 
+
+
+<img width="300" alt="Screenshot 2023-09-11 at 16 39 47" src="https://github.com/LaurenG123/Training/assets/72687468/b9310111-d733-4b39-88c3-feae51c49ad7">
+<img height="290" alt="Screenshot 2023-09-11 at 16 44 36" src="https://github.com/LaurenG123/Training/assets/72687468/50152eea-2956-42d8-bbf5-04d70ab88172">
+
+Other visualisatins not included in this readme file include interactive functions that can be used further in the creation of dashboards. Certain elements such as these may not be viewable through github but can be viewed directly in jupyter notebook. For this, make sure to install the necessary imports: 
+
+
 			import pandas as pd
 			import matplotlib.pyplot as plt
 			import matplotlib.cm as cm
@@ -154,9 +162,3 @@ The use of data visualisation tools and libraries such a Pandas, NumPy and Matpl
 			import panel as pn
 			from bokeh.plotting import figure, show, output_notebook
 			from bokeh.models import HoverTool, ColumnDataSource, Slope
-
-
-<img width="300" alt="Screenshot 2023-09-11 at 16 39 47" src="https://github.com/LaurenG123/Training/assets/72687468/b9310111-d733-4b39-88c3-feae51c49ad7">
-<img height="290" alt="Screenshot 2023-09-11 at 16 44 36" src="https://github.com/LaurenG123/Training/assets/72687468/50152eea-2956-42d8-bbf5-04d70ab88172">
-
-Other visualisatins not included in this readme file include interactive functions that can be used further in the creation of dashboards. Certain elements such as these may not be viewable through github but can be viewed directly in jupyter notebook.
