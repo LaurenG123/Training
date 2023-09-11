@@ -22,7 +22,7 @@
 #### *The purpose of this repository is to display projects completed and started during the duration of the Spartaglobal training period spanning 8 weeks. Each file has been grouped and ordered with the following schema :*
 
 
-
+https://github.com/LaurenG123/Training/blob/main/1%3A%20Python%20Scrabble.py
 
 ***
 >In Training Repository Contents
@@ -36,7 +36,7 @@
 	<tbody>
 		<tr>
 			<th scope="row" style="width:43px">1</th>
-			<td style="width:443px"><a href="https://github.com/LaurenG123/Sparta-Repository/blob/main/1:python_scrabble">Python Scrabble</a>
+			<td style="width:443px"><a href= "https://github.com/LaurenG123/Training/blob/main/1%3A%20Python%20Scrabble.py">Python Scrabble</a>
 </td>
 		</tr>
 		<tr>
