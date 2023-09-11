@@ -63,6 +63,10 @@
 			<th scope="row" style="width:43px">7</th>
 			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/running_pokecode.py">API and csv files</td>
 		</tr>
+		<tr>
+			<th scope="row" style="width:43px">8</th>
+			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/project.ipynb">Jupyter Notebook</td>
+		</tr>
 	</tbody>
 </table>
 
