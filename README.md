@@ -115,9 +115,12 @@ Note that the gherkin style acceptance criteria are written into the comment sec
 The final code written to satisfiy the test criteria is saved as <a href = "https://github.com/LaurenG123/Training/blob/main/restaurant.py">"restaurant.py". 
 
 
-The test criteria "test_module.oy" was provided by SpartaGlobal. To check the code runs satisfactorily, in regards to the unit test criteria, it is necessary to import the "restraunt_main.py" file into main, then run. 
+The test criteria "test_module.py" was provided by SpartaGlobal. To check the code runs satisfactorily, in regards to the unit test criteria, it is necessary to import the "restaurant_main.py" file into main, then run. 
+
+<a href = "https://github.com/LaurenG123/Training/blob/main/Restaurant_main.py">"restaurant_main.py"
 
 
+<a href = "">"test_module.py"
 
 
 The output should then be: 
