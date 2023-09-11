@@ -90,7 +90,7 @@ The program also implements a try and except clause to mitigate any problems tha
 
 In addition to game play, the code creates a csv file containing a readable battle log that is updated with each consequent game. When no file exists, it is created. 
 
-<img width="394" alt="Screenshot 2023-09-11 at 16 24 36" src="https://github.com/LaurenG123/Training/assets/72687468/4f1c1542-d48e-4e33-aba6-68a2fdeb8ae4">
+<img width="300" alt="Screenshot 2023-09-11 at 16 24 36" src="https://github.com/LaurenG123/Training/assets/72687468/4f1c1542-d48e-4e33-aba6-68a2fdeb8ae4">
 
 
 *Could be improved: the build could be contained in a .kv file instead of as a function in main*
