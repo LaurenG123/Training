@@ -84,7 +84,7 @@ The only requirement for running the code is to have kivy installed. You can do 
 <img width="300" alt="Screenshot 2023-09-05 at 18 14 27" src="https://github.com/LaurenG123/Training/assets/72687468/6773bf90-ab0c-4280-93fb-3742876ef8eb">
 
 
-The program also implements a try and except clause to mitigate and problems that may arise if a pokemon that does not correspond to one existing in the database is input by the user. Also note that the program admits input in either lower or uppercase... or a mixture of both!!
+The program also implements a try and except clause to mitigate any problems that may arise if a pokemon that does not correspond to one existing in the database is input by the user. Also note that the program admits inputs in either lower or uppercase... or a mixture of both!!
 
 <img width="300" alt="Screenshot 2023-09-05 at 18 25 43" src="https://github.com/LaurenG123/Training/assets/72687468/17177125-f4ea-4a99-ab47-203089f7e4c4">
 
@@ -97,5 +97,20 @@ The program also implements a try and except clause to mitigate and problems tha
 *Could be improved: the build could be contained in a .kv file instead of as a function in main*
 
 
+***
+
+## Restraunt Project
+
+The restraunt project is a task set by sparta global where a main file and .py file are given containing test conditions and a means to test a code written into the restraunt.py file. The guidlines set for the task were as follows: 
+
+<img width="794" alt="Screenshot 2023-09-11 at 15 54 02" src="https://github.com/LaurenG123/Training/assets/72687468/1ace8e05-fc46-4183-bc89-896d45217858">
+
+Based on these guidlines it was necessary to use trello (inspired by Kanban an AGILE methodology) to approach the task outlineing user stories and acceptance criteria (Gherkin method) to proceed with the tasks requirements. 
+
+<img width="1421" alt="Screenshot 2023-09-11 at 15 50 05" src="https://github.com/LaurenG123/Training/assets/72687468/eccaa119-017a-4b59-b65d-f0c38bb8f36e">
+
+Access to the expanded Trello post-its can be found <a href= "https://trello.com/b/Q6KRUxO0/restraunt-project">on my Trello board.
+
+Note that the gherkin style acceptance criteria are written into the comment section of the post-it for space purposes.
 
 
