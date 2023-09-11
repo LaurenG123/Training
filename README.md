@@ -53,7 +53,7 @@
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">5</th>
-			<td style="width:443px"><a href="https://github.com/LaurenG123/Sparta-Repository/blob/main/5:OOP_python">Python Introduction to OOP</td>
+			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/5%3A%20Python%20OOP.py">Python Introduction to OOP</td>
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">6</th>
