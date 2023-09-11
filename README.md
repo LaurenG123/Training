@@ -41,7 +41,7 @@ https://github.com/LaurenG123/Training/blob/main/1%3A%20Python%20Scrabble.py
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">2</th>
-			<td style="width:443px"><a href="https://github.com/LaurenG123/Sparta-Repository/blob/main/2:python_calculator">Python calculator (for basic functions)</a></td>
+			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/2%3A%20Python%20Calculator.py">Python calculator (for basic functions)</a></td>
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">3</th>
