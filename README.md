@@ -134,4 +134,16 @@ The output should then be:
 
 <img width="833" alt="Screenshot 2023-09-11 at 16 07 53" src="https://github.com/LaurenG123/Training/assets/72687468/59e32a27-91a7-40fa-b652-1ef1dd57a96f">
 
+***
+## Jupyter Notebook
 
+The following Jupyter Notebook project details data cleaning and visualisation. It examines data extracted from two open source csv files that can be found on kaggle. The methodology and tools used during the project are detailed in the report: 
+<img width="1095" alt="Screenshot 2023-09-11 at 16 39 21" src="https://github.com/LaurenG123/Training/assets/72687468/e0453d84-e8e7-4e4f-b2c0-3d9e75038fc0">
+
+The use of data visualisation tools and libraries such a Pandas, NumPy and Matplotlib are of great importance to the project and should be installed. Example graph requireing additional imports for interactability.
+
+
+<img width="300" alt="Screenshot 2023-09-11 at 16 39 47" src="https://github.com/LaurenG123/Training/assets/72687468/b9310111-d733-4b39-88c3-feae51c49ad7">
+<img height="290" alt="Screenshot 2023-09-11 at 16 44 36" src="https://github.com/LaurenG123/Training/assets/72687468/50152eea-2956-42d8-bbf5-04d70ab88172">
+
+Other visualisatins not included in this readme file include interactive functions that can be used further in the creation of dashboards. 
