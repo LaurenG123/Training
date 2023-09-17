@@ -41,7 +41,7 @@
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">2</th>
-			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/2%3A%20Python%20Calculator.py">Python calculator (for basic functions)</a></td>
+			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/tree/main/jupyter_notebook">Jupyter notebook</a></td>
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">3</th>
