@@ -36,7 +36,7 @@
 	<tbody>
 		<tr>
 			<th scope="row" style="width:43px">1</th>
-			<td style="width:443px"><a href= "https://github.com/LaurenG123/Training/blob/main/1%3A%20Python%20Scrabble.py">Python Scrabble</a>
+			<td style="width:443px"><a href= "https://github.com/LaurenG123/Training/tree/main/python">Python units</a>
 </td>
 		</tr>
 		<tr>
