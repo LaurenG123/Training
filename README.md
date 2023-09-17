@@ -25,12 +25,12 @@
 
 
 ***
->In Training Repository Contents
+>Training Repository Contents
 <table border="1" cellpadding="1" cellspacing="1" style="width:500px">
 	<thead>
 		<tr>
 			<th scope="col" style="width:43px">&nbsp;</th>
-			<th scope="col" style="width:443px">Files</th>
+			<th scope="col" style="width:443px">Folders</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -45,29 +45,15 @@
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">3</th>
-			<td style="width:443px"><a href="(https://github.com/LaurenG123/Training/tree/main/small_projects)">Small Projects</td>
+			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/tree/main/small_projects">Small Projects</td>
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">4</th>
-			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/4%3A%20Python%20Functions.py">Python functions further examples</td>
+			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/tree/main/apps">Small python apps</td>
 		</tr>
 		<tr>
-			<th scope="row" style="width:43px">5</th>
-			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/5%3A%20Python%20OOP.py">Python Introduction to OOP</td>
-		</tr>
-		<tr>
-			<th scope="row" style="width:43px">6</th>
-			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/6%3A%20Python%20classes.py">Python classes</td>
-		</tr>
-		<tr>
-			<th scope="row" style="width:43px">7</th>
-			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/running_pokecode.py">API and csv files</td>
-		</tr>
-		<tr>
-			<th scope="row" style="width:43px">8</th>
-			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/project.ipynb">Jupyter Notebook</td>
-		</tr>
-	</tbody>
+
+	
 </table>
 
 ***
