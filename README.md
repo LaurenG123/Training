@@ -45,7 +45,7 @@
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">3</th>
-			<td style="width:443px"><a href="https://github.com/LaurenG123/Training/blob/main/3%3A%20Control%20Flow%20Exercises.py">Python control flow examples</td>
+			<td style="width:443px"><a href="(https://github.com/LaurenG123/Training/tree/main/small_projects)">Small Projects</td>
 		</tr>
 		<tr>
 			<th scope="row" style="width:43px">4</th>
