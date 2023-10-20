@@ -11,7 +11,7 @@
 
 
 
-# My 8-Week Training Repository
+# 8-Week Repository
 
 
 
@@ -19,7 +19,7 @@
 )
 
 
-#### *The purpose of this repository is to display projects completed and started during the duration of the Spartaglobal training period spanning 8 weeks. Each file has been grouped and ordered with the following schema :*
+#### *The purpose of this repository is to display projects completed and started during the duration of the Spartaglobal period spanning 8 weeks. Each file has been grouped and ordered with the following schema :*
 
 
 
