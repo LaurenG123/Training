@@ -1,3 +1,5 @@
+# The code uses a book cipher to encrpyt a user input message and encodes it into an image uploaded by the user (steganography)
+
 from PIL import Image
 import stepic
 
